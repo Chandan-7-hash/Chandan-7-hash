@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan-7-hash" alt="chandan-7-hash" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **Python, Web Technology, SQL, AI/ML**
+- 💬 Ask me about **Python, Django, Web Technology, SQL, AI/ML**
 
 - 📫 How to reach me **khuntiachandan26@gmail.com**
 
