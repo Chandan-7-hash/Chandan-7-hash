@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Django, React.JS**
+- 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **Python, Web Technology, SQL**
+- 💬 Ask me about **Python, Web Technology, SQL, AI/ML**
 
 - 📫 How to reach me **khuntiachandan26@gmail.com**
 
